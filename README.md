@@ -1,4 +1,8 @@
-﻿👗 **#ModaTakip - Moda Envanter ve Personel Yönetim Sistemi#**
+﻿![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+👗 #ModaTakip - Kumaş Envanter ve Personel Yönetim Sistemi#
 ModaTakip, moda evleri ve tekstil atölyeleri için tasarlanmış, rol tabanlı yetkilendirme sistemine sahip bir masaüstü envanter ve personel yönetim uygulamasıdır.
 
 🚀 **Özellikler**
