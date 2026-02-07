@@ -1,4 +1,4 @@
-﻿👗 **ModaTakip - Moda Envanter ve Personel Yönetim Sistemi**
+﻿👗 **#ModaTakip - Moda Envanter ve Personel Yönetim Sistemi#**
 ModaTakip, moda evleri ve tekstil atölyeleri için tasarlanmış, rol tabanlı yetkilendirme sistemine sahip bir masaüstü envanter ve personel yönetim uygulamasıdır.
 
 🚀 **Özellikler**
