@@ -32,13 +32,6 @@ Veritabanı: SQLite (System.Data.SQLite)
 
 IDE: Visual Studio 2022+
 
-## 📂Proje Yapısı
-SqliteHelper.cs: Veritabanı bağlantı yönetimi ve tablo oluşturma (DAL).
-
-FrmGiris.cs: Kimlik doğrulama ve yetki kontrolü ekranı.
-
-FrmAnasayfa.cs: Dinamik panel yapısı ile merkezi yönetim ekranı.
-
 ## ⚙️Kurulum
 Projeyi Visual Studio ile açın.
 
